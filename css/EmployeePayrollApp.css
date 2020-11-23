@@ -149,7 +149,7 @@ select {
 error-output
 {
     font-size:12px;
-    font-style:italic;
+    font-style:bold italic;
     color:red;
     margin: 5px;
 }
